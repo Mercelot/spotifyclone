@@ -1,2 +1,2 @@
-# spotifyclone
-Spotify clone tutorial repo
+# Spotify Clone
+Spotify Clone repo
